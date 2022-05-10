@@ -6,7 +6,7 @@ import cv2
 import pickle
 
 game_url = "chrome://dino"
-chrome_driver_path = "G:\SEM6\Projects\RL\chromedriver_win32\chromedriver"
+chrome_driver_path = "..\chromedriver_win32\chromedriver"
 loss_file_path = ".\objects\loss_df.csv"
 actions_file_path = ".\objects\\actions_df.csv"
 q_value_file_path = ".\objects\q_values.csv"
